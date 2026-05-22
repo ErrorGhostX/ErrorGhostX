@@ -59,7 +59,7 @@
     *   БД MySQL, фоновые задачи и push-уведомления (FCM).
 
 ### 🎮 **Minecraft Modding** — Собственные игровые модификации
-*   Разработка модов на **Java** с использованием современных API (**Forge** / **Fabric**).
+*   Разработка модов на **Java** с использованием современных API (**Fabric**).
 *   Создание кастомных игровых механик, оптимизация рендеринга и работы с памятью, интеграция новых предметов, блоков и сущностей.
 
 ### 🤖 **MESHREG & LUGALO** — Телеграм-боты для автоматизации
@@ -69,14 +69,6 @@
 
 ---
 
-## 📊 Моя активность на GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=errorghostx&show_icons=true&theme=nord&count_private=true" alt="errorghostx's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorghostx&layout=compact&theme=nord" alt="errorghostx's Top Languages" />
-</p>
-
----
 
 ## 📫 Как со мной связаться
 
